@@ -28,7 +28,7 @@ For the routing folder, we put all of our pages in `app` folder with the file na
 
 ## Demonstration
 
-You can access the website directly at [this link](https://bo.lexicon.id/)
+You can access the website directly at [this link](https://beneficialowner.lexicon.id/)
 
 ## Roadmap
 
